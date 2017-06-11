@@ -1,0 +1,53 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data exported from BBCI Matlab Toolbox
+
+[Common Infos]
+DataFile=harmonicsCalibration12.eeg
+MarkerFile=harmonicsCalibration12.vmrk
+DataFormat=BINARY
+DataOrientation=MULTIPLEXED
+NumberOfChannels=35
+DataPoints=0
+SamplingInterval=4000
+
+[Binary Infos]
+BinaryFormat=INT_32
+UseBigEndianOrder=NO
+
+[Channel Infos]
+Ch1=Fp1,,0.1,a.u.
+Ch2=Fz,,0.1,a.u.
+Ch3=AF3,,0.1,a.u.
+Ch4=AF7,,0.1,a.u.
+Ch5=FT7,,0.1,a.u.
+Ch6=FC5,,0.1,a.u.
+Ch7=FC1,,0.1,a.u.
+Ch8=C3,,0.1,a.u.
+Ch9=C5,,0.1,a.u.
+Ch10=TP7,,0.1,a.u.
+Ch11=CP5,,0.1,a.u.
+Ch12=P1,,0.1,a.u.
+Ch13=Pz,,0.1,a.u.
+Ch14=P3,,0.1,a.u.
+Ch15=P7,,0.1,a.u.
+Ch16=O1,,0.1,a.u.
+Ch17=Oz,,0.1,a.u.
+Ch18=O2,,0.1,a.u.
+Ch19=P4,,0.1,a.u.
+Ch20=P8,,0.1,a.u.
+Ch21=TP8,,0.1,a.u.
+Ch22=CP6,,0.1,a.u.
+Ch23=CP2,,0.1,a.u.
+Ch24=Cz,,0.1,a.u.
+Ch25=C4,,0.1,a.u.
+Ch26=C6,,0.1,a.u.
+Ch27=FT8,,0.1,a.u.
+Ch28=FC6,,0.1,a.u.
+Ch29=FC2,,0.1,a.u.
+Ch30=AF4,,0.1,a.u.
+Ch31=AF8,,0.1,a.u.
+Ch32=Fp2,,0.1,a.u.
+Ch33=Acc1,,0.1,a.u.
+Ch34=Acc2,,0.1,a.u.
+Ch35=Acc3,,0.1,a.u.
+
